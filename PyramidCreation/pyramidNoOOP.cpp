@@ -19,7 +19,7 @@ float FL = 5;
 std::vector<Point3D> points2{
          Point3D{ -1, -1, 0 }, Point3D{ 1, 1, 0 },
          Point3D{ 1,  -1, 0 }, Point3D{ -1,  1, 0 },
-         Point3D{ 0, 0.5, 4 }
+         Point3D{ 0, -0.5, 4 }
 };
 
 //creates an array of edges (This hold indices referencing to the points array)
