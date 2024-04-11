@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GL\\PyramidCreation2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6397DDC7-5D5B-412F-A71C-66227B91AEC0}|PyramidCreation2.vcxproj|C:\\GL\\PyramidCreation2\\pyramidNoOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6397DDC7-5D5B-412F-A71C-66227B91AEC0}|PyramidCreation2.vcxproj|solutionrelative:pyramidNoOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6397DDC7-5D5B-412F-A71C-66227B91AEC0}|PyramidCreation2.vcxproj|C:\\GL\\PyramidCreation2\\Renderer3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6397DDC7-5D5B-412F-A71C-66227B91AEC0}|PyramidCreation2.vcxproj|solutionrelative:Renderer3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6397DDC7-5D5B-412F-A71C-66227B91AEC0}|PyramidCreation2.vcxproj|C:\\GL\\PyramidCreation2\\pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6397DDC7-5D5B-412F-A71C-66227B91AEC0}|PyramidCreation2.vcxproj|solutionrelative:pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pyramidNoOOP.cpp",
+              "DocumentMoniker": "C:\\GL\\PyramidCreation2\\pyramidNoOOP.cpp",
+              "RelativeDocumentMoniker": "pyramidNoOOP.cpp",
+              "ToolTip": "C:\\GL\\PyramidCreation2\\pyramidNoOOP.cpp",
+              "RelativeToolTip": "pyramidNoOOP.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T14:30:52.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Renderer3D.cpp",
+              "DocumentMoniker": "C:\\GL\\PyramidCreation2\\Renderer3D.cpp",
+              "RelativeDocumentMoniker": "Renderer3D.cpp",
+              "ToolTip": "C:\\GL\\PyramidCreation2\\Renderer3D.cpp",
+              "RelativeToolTip": "Renderer3D.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T14:31:02.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pyramid.cpp",
+              "DocumentMoniker": "C:\\GL\\PyramidCreation2\\pyramid.cpp",
+              "RelativeDocumentMoniker": "pyramid.cpp",
+              "ToolTip": "C:\\GL\\PyramidCreation2\\pyramid.cpp",
+              "RelativeToolTip": "pyramid.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T14:30:39.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
